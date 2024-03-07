@@ -3,7 +3,9 @@
 
 I'm a software engineer building apps to make work easier and provide beautiful, intuitive user experiences.
 
-When I'm not working, I'm usually exercising or finding an excuse to get outside 🏋️ 🏀 🎾 🏃 🥾 🧘‍♂️. I also enjoy listening to conversations and mindfulness practices on a meditation app called [Waking Up](https://www.wakingup.com/).
+When I'm not working, I'm usually exercising or finding an excuse to get outside 🏋️ 🏀 🎾 🏃 🥾 🧘‍♂️. 
+
+I also enjoy listening to conversations and mindfulness practices on a meditation app called [Waking Up](https://www.wakingup.com/).
 #
 <div >
 	<code><img width="35" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" title="React"/></code>
